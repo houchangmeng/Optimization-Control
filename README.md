@@ -18,6 +18,11 @@ Convex MPC
 Shooting Method  
 Collection Method  
 
+## Some Result
+![ilqr_animation](ilqr.gif)
+![ilqr trajectory](ilqr_trajectory.png)
+![trajectory_tracking](ilqr_traj_lqr_tracking.png)
+
 ## Reference
 
 CMU 16 745
